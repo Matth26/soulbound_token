@@ -1,0 +1,2 @@
+0x07323448bff20bd86905981ae07a0889c5b6a13915f53f4d5d50b79aea3ff6b2:/Users/matthias/cairo_venv/lib/python3.9/site-packages/nile/artifacts/abis/Account.json:account-0
+0x06fae9f9b71efa30d12a66a18a89ffaccc7ac6938e0a70b6a86ef55276441f56:/Users/matthias/cairo_venv/lib/python3.9/site-packages/nile/artifacts/abis/Account.json:account-1
